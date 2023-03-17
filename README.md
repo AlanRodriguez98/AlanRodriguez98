@@ -6,9 +6,9 @@
   <br>
 
   🙍‍♂️ About me:<br><br>
-  ► 🗨️ Ask me about:<strong> PHP, HTML, CCS, Javascript, Codeigniter 4 </strong><br>
-  ► 📧 How to contact me alandejesus98@hotmail.com<br>
-  ► 🏫 Im currently learning <strong>Git, SQL Server, C#, Python</strong>
+  ► 🗨️ Ask me about:<strong> PHP, HTML, CCS, Javascript, Codeigniter 4. </strong><br>
+  ► 📧 How to contact me alandejesus98@hotmail.com.<br>
+  ► 🏫 Im currently learning <strong>Git, SQL Server, C#, Python.</strong>
   
   <div align="center">
     <h3>🛠️ Languages and Tools:</h3>
